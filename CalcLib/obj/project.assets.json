@@ -179,23 +179,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/anguyen/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Kanishka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/CalcLib.csproj",
+      "projectUniqueName": "D:\\GITHUB FOLDER\\SEMESTER-TWO\\C-Sharp\\CIV_UnitTesting_XUnit\\CalcLib\\CalcLib.csproj",
       "projectName": "CalcLib",
-      "projectPath": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/CalcLib.csproj",
-      "packagesPath": "/Users/anguyen/.nuget/packages/",
-      "outputPath": "/Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/",
+      "projectPath": "D:\\GITHUB FOLDER\\SEMESTER-TWO\\C-Sharp\\CIV_UnitTesting_XUnit\\CalcLib\\CalcLib.csproj",
+      "packagesPath": "C:\\Users\\Kanishka\\.nuget\\packages\\",
+      "outputPath": "D:\\GITHUB FOLDER\\SEMESTER-TWO\\C-Sharp\\CIV_UnitTesting_XUnit\\CalcLib\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/anguyen/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kanishka\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -234,7 +230,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
